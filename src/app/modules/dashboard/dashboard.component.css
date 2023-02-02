@@ -1,0 +1,7 @@
+.stats-cards{
+    overflow: hidden;
+}
+.bottom{
+     display: flex;
+     justify-content: space-between;
+}
